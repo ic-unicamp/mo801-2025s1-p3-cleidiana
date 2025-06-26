@@ -21,4 +21,4 @@ Desenvolvimento do codigo e redução do tempo de processamento da multiplicaç�
 
 ## Comentários gerais e conclusões
 
-Com o Projeto 2 obtive uma base para desenvolvimento do Projeto 3, como a ultilização do timer para temporizar a execução do programa.
+Com o desenvolvimento do Projeto 2 utilizando a Tang Nano 9K, foi desenvolvido já uma base para desenvolvimento do Projeto 3, como a ultilização do timer para temporizar a execução do programa.
