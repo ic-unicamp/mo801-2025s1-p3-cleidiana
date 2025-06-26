@@ -1,19 +1,24 @@
 # Repositório base para o Projeto 3
 
-Aluno: identifique-se com RA e nome completo
+Aluno: Cleidiana Reis dos Santos - 298254
 
 ## Breve descrição dos objetivos
 
-inclua aqui quais foram os objetivos alcançados pelo projeto
+O Projeto apresentou a comparação entre multiplicação de matrizes utilizando a multiplicação tradicional e divisão por blocos na Tang Nano 9K. Após a otimização, a divisão em blocos 2x2, o tempo de execução foi reduzido para aproximadamente 1/3 do tempo com o algoritmo inicial, foi de 99206 ciclos para 39653 ciclos de clock. Blocos com outros tamanhos não obtiveram resultado satisfatório. 
+
+## Organização
+
+A pasta acereração_hw contém os arquivos utilizados nos testes de multiplicação de matrizes.
+A pasta litex_boards contém os arquivos para execução na Tang Nano 9K.
 
 ## Desafios encontrados
 
-inclua aqui os desafios que encontrou e que superou
+Entendimento inicial de divisão por blocos e codificação da multiplicação otimizada.
 
 ## Barreiras alcançadas
 
-inclua aqui as barreiras que encontrou e que não conseguiu superar
+Desenvolvimento do codigo e redução do tempo de processamento da multiplicação das matrizes.
 
 ## Comentários gerais e conclusões
 
-inclua aqui seus comentários gerais e conclusões sobre o projeto
+Com o Projeto 2 obtive uma base para desenvolvimento do Projeto 3, como a ultilização do timer para temporizar a execução do programa.
